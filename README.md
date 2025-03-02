@@ -1,2 +1,0 @@
-# javascript
-git repo
